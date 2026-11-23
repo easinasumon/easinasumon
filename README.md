@@ -32,13 +32,13 @@
 name:      MD Easin
 location:  Dhaka, Bangladesh
 job:       Digital Marketer
-hobby:     Building software with AI
+side work: Building software with AI
 coding:    None — I describe it, AI writes it
 mindset:   "You don't need to code to build."
 ```
 
 - By profession I'm a **digital marketer**: growth, ads, content & customers
-- I'm **not a developer**: I build tools as a hobby, by talking to AI
+- I'm **not a developer**: I build tools by talking to AI
 - I build what I wish I had at work: tools that save time and show real numbers
 - Happy to talk **marketing, e-commerce and AI tools**
 - Reach me: [easinarafatsumon@gmail.com](mailto:easinarafatsumon@gmail.com) · [mdeasin.webgrowths.com](https://mdeasin.webgrowths.com)
@@ -62,7 +62,7 @@ Orders come in from the website, the team calls to confirm,
 books the courier, tracks delivery & returns, and sees
 **which Facebook ads really bring sales**.
 
-Started as a hobby, now used daily by real businesses.
+Built for my own work, now used daily by real businesses.
 
 [pineapple.webgrowths.com](https://pineapple.webgrowths.com)
 
