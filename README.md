@@ -1,5 +1,5 @@
 <!-- ===== Header banner ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=MD%20Easin%20Arafat%20Sumon&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Digital%20Marketer%20%E2%80%A2%20Builds%20with%20AI%20for%20fun&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=MD%20Easin%20Arafat%20Sumon&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Digital%20Marketer%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=18" />
 
 <!-- ===== Typing animation ===== -->
 <p align="center">
