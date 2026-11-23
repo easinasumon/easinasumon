@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="Illustration: marketing and CRM growing together. Both lines dip a little at times and then climb back up.">
+<style>
+  .sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+  .ln{stroke-dasharray:1600;stroke-dashoffset:1600;animation:draw 2.6s cubic-bezier(.4,0,.2,1) forwards}
+  .crm{animation-delay:.5s}
+  .area{opacity:0;animation:fade .8s ease-out 2s forwards}
+  .end{opacity:0;animation:fade .4s ease-out forwards}
+  @keyframes draw{to{stroke-dashoffset:0}} @keyframes fade{to{opacity:1}}
+  @media (prefers-reduced-motion: reduce){.ln{animation:none;stroke-dashoffset:0} .area,.end{animation:none;opacity:1}}
+</style>
+<rect x="0.5" y="0.5" width="1199" height="389" rx="16" fill="#0f2027" stroke="rgba(230,241,244,0.08)"/>
+<text x="40" y="60" class="sans" font-size="24" font-weight="600" fill="#e6f1f4">Marketing and CRM, growing together</text>
+<text x="40" y="88" class="sans" font-size="17" fill="#a7bcc4">An illustration: some months dip, the next ones climb back</text>
+<circle cx="950" cy="54" r="6" fill="#4fb6d1"/><text x="964" y="59" class="sans" font-size="16" fill="#a7bcc4">Marketing</text>
+<circle cx="1070" cy="54" r="6" fill="#f2b84b"/><text x="1084" y="59" class="sans" font-size="16" fill="#a7bcc4">CRM</text>
+<line x1="60" y1="130" x2="1080" y2="130" stroke="rgba(230,241,244,0.07)"/>
+<line x1="60" y1="180" x2="1080" y2="180" stroke="rgba(230,241,244,0.07)"/>
+<line x1="60" y1="230" x2="1080" y2="230" stroke="rgba(230,241,244,0.07)"/>
+<line x1="60" y1="280" x2="1080" y2="280" stroke="rgba(230,241,244,0.07)"/>
+<line x1="60" y1="330" x2="1080" y2="330" stroke="rgba(230,241,244,0.07)"/>
+<text x="60" y="364" class="mono" font-size="14" fill="#7f98a1">Then</text>
+<text x="1080" y="364" class="mono" font-size="14" fill="#7f98a1" text-anchor="end">Now</text>
+<defs><linearGradient id="fa" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4fb6d1" stop-opacity=".22"/><stop offset="1" stop-color="#4fb6d1" stop-opacity="0"/></linearGradient></defs>
+<path class="area" d="M60.0,294.0 C75.5,290.0 121.8,278.0 152.7,270.0 C183.6,262.0 214.5,248.0 245.5,246.0 C276.4,244.0 307.3,260.7 338.2,258.0 C369.1,255.3 400.0,238.7 430.9,230.0 C461.8,221.3 492.7,207.7 523.6,206.0 C554.5,204.3 585.5,222.0 616.4,220.0 C647.3,218.0 678.2,202.3 709.1,194.0 C740.0,185.7 770.9,171.3 801.8,170.0 C832.7,168.7 863.6,188.0 894.5,186.0 C925.5,184.0 956.4,165.7 987.3,158.0 C1018.2,150.3 1064.5,143.0 1080.0,140.0 L1080,330 L60,330 Z" fill="url(#fa)"/>
+<path class="ln" d="M60.0,294.0 C75.5,290.0 121.8,278.0 152.7,270.0 C183.6,262.0 214.5,248.0 245.5,246.0 C276.4,244.0 307.3,260.7 338.2,258.0 C369.1,255.3 400.0,238.7 430.9,230.0 C461.8,221.3 492.7,207.7 523.6,206.0 C554.5,204.3 585.5,222.0 616.4,220.0 C647.3,218.0 678.2,202.3 709.1,194.0 C740.0,185.7 770.9,171.3 801.8,170.0 C832.7,168.7 863.6,188.0 894.5,186.0 C925.5,184.0 956.4,165.7 987.3,158.0 C1018.2,150.3 1064.5,143.0 1080.0,140.0" fill="none" stroke="#4fb6d1" stroke-width="3" stroke-linecap="round"/>
+<path class="ln crm" d="M60.0,318.0 C75.5,316.7 121.8,314.0 152.7,310.0 C183.6,306.0 214.5,295.7 245.5,294.0 C276.4,292.3 307.3,302.7 338.2,300.0 C369.1,297.3 400.0,285.7 430.9,278.0 C461.8,270.3 492.7,255.3 523.6,254.0 C554.5,252.7 585.5,272.3 616.4,270.0 C647.3,267.7 678.2,249.3 709.1,240.0 C740.0,230.7 770.9,216.3 801.8,214.0 C832.7,211.7 863.6,230.0 894.5,226.0 C925.5,222.0 956.4,200.7 987.3,190.0 C1018.2,179.3 1064.5,166.7 1080.0,162.0" fill="none" stroke="#f2b84b" stroke-width="3" stroke-linecap="round"/>
+<g class="end" style="animation-delay:2.5s"><circle cx="1080.0" cy="140.0" r="6" fill="#4fb6d1"/><text x="1094.0" y="145.0" class="sans" font-size="16" font-weight="600" fill="#4fb6d1">Marketing</text></g>
+<g class="end" style="animation-delay:3.0s"><circle cx="1080.0" cy="162.0" r="6" fill="#f2b84b"/><text x="1094.0" y="167.0" class="sans" font-size="16" font-weight="600" fill="#f2b84b">CRM</text></g>
+</svg>

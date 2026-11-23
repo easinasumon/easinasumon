@@ -54,14 +54,9 @@ mindset:   "You don't need to code to build."
 
 ## 🚀 What I've Built with AI
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🍍 Pineapple CRM
 <img alt="Orders → Calls → Courier → Delivery. See which ads really sell." src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=2500&pause=1000&color=2C9AB7&vCenter=true&width=380&height=30&lines=Orders+%E2%86%92+Calls+%E2%86%92+Courier+%E2%86%92+Delivery;See+which+ads+really+sell+%F0%9F%93%88;Built+by+a+marketer%2C+with+AI" />
 
-<!-- CRM demo GIF goes here -->
 An order-management CRM for online shops in Bangladesh.
 Orders come in from the website, the team calls to confirm,
 books the courier, tracks delivery & returns, and sees
@@ -71,18 +66,27 @@ Started as a hobby, now used daily by real businesses.
 
 🔗 [pineapple.webgrowths.com](https://pineapple.webgrowths.com)
 
-</td>
-<td width="50%" valign="top">
+<!-- CRM demo GIF goes here -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/order-journey-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/order-journey-light.svg" />
+  <img width="100%" alt="Pineapple CRM: how one order moves. Order comes in straight from WooCommerce, the team calls each buyer and confirms, a courier is booked, the order is delivered, and the ad report shows which ad really sold." src="assets/order-journey-dark.svg" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/growth-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/growth-light.svg" />
+  <img width="100%" alt="Illustration: marketing and CRM growing together. Both lines dip a little at times and then climb back up." src="assets/growth-dark.svg" />
+</picture>
 
 ### 🤖 AI for Marketing
 Using Claude for content ideas,
 YouTube workflows and design polish.
 
 `Claude` `AI Agents` `Automation`
-
-</td>
-</tr>
-</table>
 
 ---
 
