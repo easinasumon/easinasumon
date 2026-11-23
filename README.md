@@ -29,7 +29,7 @@
 <td width="60%">
 
 ```yaml
-name:      MD Easin Arafat Sumon
+name:      MD Easin
 location:  Dhaka, Bangladesh
 job:       Digital Marketer
 hobby:     Building software with AI
