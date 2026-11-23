@@ -9,7 +9,7 @@ Digital marketer in Dhaka. I run ads and grow online shops, and I build the tool
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/order-journey-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/order-journey-light.svg" />
-  <img width="100%" alt="Pineapple CRM: how one order moves. Order comes in from the WooCommerce shop, the team calls and confirms, a courier is booked, the order is delivered, and the ad report shows which ad really sold." src="assets/order-journey-light.svg" />
+  <img width="100%" alt="Pineapple CRM: how one order moves. Order comes in straight from WooCommerce, the team calls each buyer and confirms, a courier is booked, the order is delivered, and the ad report shows which ad really sold." src="assets/order-journey-light.svg" />
 </picture>
 
 ## Pineapple CRM
